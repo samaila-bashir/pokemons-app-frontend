@@ -11,3 +11,4 @@ Below are some of the areas that I would like to improve:
 1. Add an edit page for editing individual pokemons.
 2. Implement pagination to improve performance, because all the pokemons are currently displayed at once which affects the performance of page rendering. The code that needs to be improved is found in the directory: src/dashboard/Pokemon.tsx
 3. I will add a view that shows a history of changes that where made on each Pokemon. 
+4. I will add a view for confirming email verifications before a user can access the dashboard.
