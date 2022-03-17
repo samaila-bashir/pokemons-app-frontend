@@ -1,4 +1,4 @@
-# pokemons-app-frontend
+# Pokemons App Frontend
 
 ## `Notes on Frontend`
 
